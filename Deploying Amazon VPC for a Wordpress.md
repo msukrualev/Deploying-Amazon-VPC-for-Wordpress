@@ -3,7 +3,7 @@
 Configuring and Deploying Amazon VPC for Wordpress
 =========================================================
 
-Overview
+Overview:_
 ------------
 
 This lab demonstrates how to set up a VPC infrastructure to support a basic Wordpress application in your AWS Cloud environment. The VPC will be built across multiple Availability Zones so that your application is highly available. Let's get a quick overview of what a VPC is and how Elastic Load Balancing works.
