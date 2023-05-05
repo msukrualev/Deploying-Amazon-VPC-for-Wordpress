@@ -1,2 +1,2 @@
 # newproject
-VPC
+VPC and its applications
